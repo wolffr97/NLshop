@@ -1,0 +1,14 @@
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Service.dll
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Service.pdb
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Common.dll
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Data.dll
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Model.dll
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Common.pdb
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Data.pdb
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Data.dll.config
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Model.pdb
+E:\Source Code\NLshop\NLshop.Service\bin\Debug\NLshop.Model.dll.config
+E:\Source Code\NLshop\NLshop.Service\obj\Debug\NLshop.Service.csprojAssemblyReference.cache
+E:\Source Code\NLshop\NLshop.Service\obj\Debug\NLshop.Service.csproj.CopyComplete
+E:\Source Code\NLshop\NLshop.Service\obj\Debug\NLshop.Service.dll
+E:\Source Code\NLshop\NLshop.Service\obj\Debug\NLshop.Service.pdb
