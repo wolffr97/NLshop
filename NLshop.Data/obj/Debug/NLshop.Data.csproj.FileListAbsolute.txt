@@ -11,3 +11,16 @@ E:\Source Code\NLshop\NLshop.Data\obj\Debug\NLshop.Data.csprojAssemblyReference.
 E:\Source Code\NLshop\NLshop.Data\obj\Debug\NLshop.Data.csproj.CopyComplete
 E:\Source Code\NLshop\NLshop.Data\obj\Debug\NLshop.Data.dll
 E:\Source Code\NLshop\NLshop.Data\obj\Debug\NLshop.Data.pdb
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Data.dll.config
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Data.dll
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Data.pdb
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\EntityFramework.dll
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Common.dll
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Common.pdb
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\EntityFramework.xml
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.csprojAssemblyReference.cache
+E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.csproj.CopyComplete
+E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.dll
+E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.pdb

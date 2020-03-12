@@ -16,7 +16,6 @@ E:\project to Git\git\NLshop\NLshop.Model\bin\Debug\EntityFramework.dll
 E:\project to Git\git\NLshop\NLshop.Model\bin\Debug\EntityFramework.SqlServer.dll
 E:\project to Git\git\NLshop\NLshop.Model\bin\Debug\EntityFramework.xml
 E:\project to Git\git\NLshop\NLshop.Model\bin\Debug\EntityFramework.SqlServer.xml
-E:\project to Git\git\NLshop\NLshop.Model\obj\Debug\NLshop.Model.csprojAssemblyReference.cache
 E:\project to Git\git\NLshop\NLshop.Model\obj\Debug\NLshop.Model.csproj.CopyComplete
 E:\project to Git\git\NLshop\NLshop.Model\obj\Debug\NLshop.Model.dll
 E:\project to Git\git\NLshop\NLshop.Model\obj\Debug\NLshop.Model.pdb

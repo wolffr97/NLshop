@@ -12,3 +12,17 @@ E:\Source Code\NLshop\NLshop.Service\obj\Debug\NLshop.Service.csprojAssemblyRefe
 E:\Source Code\NLshop\NLshop.Service\obj\Debug\NLshop.Service.csproj.CopyComplete
 E:\Source Code\NLshop\NLshop.Service\obj\Debug\NLshop.Service.dll
 E:\Source Code\NLshop\NLshop.Service\obj\Debug\NLshop.Service.pdb
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Service.dll
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Service.pdb
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Common.dll
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Data.dll
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Model.dll
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Common.pdb
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Data.pdb
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Data.dll.config
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Model.pdb
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\NLshop.Model.dll.config
+E:\project to Git\git\NLshop\NLshop.Service\obj\Debug\NLshop.Service.csprojAssemblyReference.cache
+E:\project to Git\git\NLshop\NLshop.Service\obj\Debug\NLshop.Service.csproj.CopyComplete
+E:\project to Git\git\NLshop\NLshop.Service\obj\Debug\NLshop.Service.dll
+E:\project to Git\git\NLshop\NLshop.Service\obj\Debug\NLshop.Service.pdb
