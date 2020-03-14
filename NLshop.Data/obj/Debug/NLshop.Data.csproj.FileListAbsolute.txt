@@ -24,3 +24,6 @@ E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.csprojAssemblyRef
 E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.csproj.CopyComplete
 E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.dll
 E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.pdb
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Model.dll
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Model.pdb
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Model.dll.config

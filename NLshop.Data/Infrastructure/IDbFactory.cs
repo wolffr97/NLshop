@@ -11,3 +11,4 @@ namespace NLshop.Data.Infrastructure
         NlShopDbContext Init();
     }
 }
+ 
