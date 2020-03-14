@@ -13,6 +13,7 @@ namespace NLshop.Data.Infrastructure
         void Update(T entity);
 
         void Delete(T entity);
+        void Delete(int id);
         void DeleteMulti(Expression< Func <T, bool>> where);
         T GetSingById(int id);
         T GetsingByCondition(Expression<Func<T, bool>> expression, string[] includes = null);
