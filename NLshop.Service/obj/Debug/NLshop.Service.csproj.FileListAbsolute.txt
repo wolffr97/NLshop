@@ -26,3 +26,5 @@ E:\project to Git\git\NLshop\NLshop.Service\obj\Debug\NLshop.Service.csprojAssem
 E:\project to Git\git\NLshop\NLshop.Service\obj\Debug\NLshop.Service.csproj.CopyComplete
 E:\project to Git\git\NLshop\NLshop.Service\obj\Debug\NLshop.Service.dll
 E:\project to Git\git\NLshop\NLshop.Service\obj\Debug\NLshop.Service.pdb
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\EntityFramework.dll
+E:\project to Git\git\NLshop\NLshop.Service\bin\Debug\EntityFramework.xml

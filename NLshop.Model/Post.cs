@@ -1,8 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using NLShop.Model.Abstract;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using TeduShop.Model.Abstract;
 
-namespace TeduShop.Model.Models
+
+namespace NLShop.Model.Models
 {
     [Table("Posts")]
     public class Post : Auditable

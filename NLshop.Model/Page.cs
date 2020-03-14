@@ -1,8 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using NLShop.Model.Abstract;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using TeduShop.Model.Abstract;
+namespace NLShop.Model.Models
 
-namespace TeduShop.Model.Models
 {
     [Table("Pages")]
     public class Page : Auditable

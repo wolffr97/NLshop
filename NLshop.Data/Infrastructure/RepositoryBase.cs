@@ -8,9 +8,9 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeduShop.Data.Infrastructure
+namespace NLShop.Data.Infrastructure
 {
-    public abstract class RepositoryBase<T> where T : class
+    public abstract class RepositoryBase<T> : IRepository<T> where T : class
     {
         #region Properties
         private NlShopDbContext dataContext;
@@ -133,6 +133,21 @@ namespace TeduShop.Data.Infrastructure
         public bool CheckContains(Expression<Func<T, bool>> predicate)
         {
             return dataContext.Set<T>().Count<T>(predicate) > 0;
+        }
+
+        public T GetSingById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public T GetsingByCondition(Expression<Func<T, bool>> expression, string[] includes = null)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool CheckContain(Expression<Func<T, bool>> predicate)
+        {
+            throw new NotImplementedException();
         }
         #endregion
     }
