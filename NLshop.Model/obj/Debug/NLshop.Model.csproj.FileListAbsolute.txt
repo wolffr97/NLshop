@@ -20,3 +20,7 @@ E:\project to Git\git\NLshop\NLshop.Model\obj\Debug\NLshop.Model.csproj.CopyComp
 E:\project to Git\git\NLshop\NLshop.Model\obj\Debug\NLshop.Model.dll
 E:\project to Git\git\NLshop\NLshop.Model\obj\Debug\NLshop.Model.pdb
 E:\project to Git\git\NLshop\NLshop.Model\obj\Debug\NLshop.Model.csprojAssemblyReference.cache
+E:\project to Git\git\NLshop\NLshop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\project to Git\git\NLshop\NLshop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\project to Git\git\NLshop\NLshop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\project to Git\git\NLshop\NLshop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

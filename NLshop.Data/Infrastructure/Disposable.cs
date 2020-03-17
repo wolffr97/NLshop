@@ -4,16 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NLshop.Data.Infrastructure
+namespace NLShop.Data.Infrastructure
 {
     public class Disposable : IDisposable
     {
-        private bool isDispose;
+        private bool isDisposed;
+
         ~Disposable()
         {
-
             Dispose(false);
         }
+
         public void Dispose()
         {
             Dispose(true);
@@ -21,16 +22,17 @@ namespace NLshop.Data.Infrastructure
         }
         private void Dispose(bool disposing)
         {
-            if(!isDispose && disposing)
+            if (!isDisposed && disposing)
             {
                 DisposeCore();
             }
-            isDispose = true;
+
+            isDisposed = true;
         }
+
+        // Ovveride this to dispose custom objects
         protected virtual void DisposeCore()
         {
-
         }
-        
     }
 }

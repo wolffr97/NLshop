@@ -92,3 +92,139 @@ E:\project to Git\git\NLshop\NLshop.UnitTest\obj\Debug\NLshop.UnitTest.csprojAss
 E:\project to Git\git\NLshop\NLshop.UnitTest\obj\Debug\NLshop.UnitTest.csproj.CopyComplete
 E:\project to Git\git\NLshop\NLshop.UnitTest\obj\Debug\NLshop.UnitTest.dll
 E:\project to Git\git\NLshop\NLshop.UnitTest\obj\Debug\NLshop.UnitTest.pdb
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\NLshop.UnitTest.dll.config
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Castle.Core.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Moq.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\WebGrease.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Antlr3.Runtime.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Castle.Core.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Moq.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Newtonsoft.Json.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Antlr3.Runtime.pdb
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Owin.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Autofac.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Autofac.Integration.Mvc.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Autofac.Integration.WebApi.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Autofac.pdb
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Autofac.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Autofac.Integration.WebApi.pdb
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\AutoMapper.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\AutoMapper.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\project to Git\git\NLshop\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\obj\Debug\NLshop.UnitTest.csprojAssemblyReference.cache
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\obj\Debug\NLshop.UnitTest.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\obj\Debug\NLshop.UnitTest.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.UnitTest.dll.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.UnitTest.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.UnitTest.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Moq.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Common.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Data.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Model.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Service.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Web.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Owin.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Autofac.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\AutoMapper.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\WebGrease.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Common.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Data.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Data.dll.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Model.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Model.dll.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Service.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Web.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\NLshop.Web.dll.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Moq.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Autofac.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Autofac.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\AutoMapper.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Autofac.Integration.WebApi.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.UnitTest\obj\Debug\NLshop.UnitTest.csproj.CopyComplete

@@ -29,3 +29,30 @@ E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Model.pdb
 E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\NLshop.Model.dll.config
 E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.Migrations.InitialDB.resources
 E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.csproj.GenerateResource.cache
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\project to Git\git\NLshop\NLshop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\project to Git\git\NLshop\NLshop.Data\obj\Debug\NLshop.Data.Migrations.IntergrateAspnetIdentity.resources
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.csprojAssemblyReference.cache
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\NLshop.Data.dll.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\NLshop.Data.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\NLshop.Data.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\EntityFramework.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\NLshop.Common.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\NLshop.Model.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\NLshop.Common.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\NLshop.Model.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\NLshop.Model.dll.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\EntityFramework.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.csproj.CopyComplete
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.Migrations.InitialDB.resources
+C:\Users\lengh\Desktop\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.csproj.GenerateResource.cache

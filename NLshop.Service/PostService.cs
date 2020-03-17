@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Linq;
+
 
 namespace NLshop.Service
 {
@@ -17,6 +17,7 @@ namespace NLshop.Service
         void Delete(int id);
         IEnumerable<Post> GetAll();
         IEnumerable<Post> GetAllpaging(int page, int pageSize,out int totalRow);
+        IEnumerable<Post> GetAllByCategoryPaging(int catagoryid,int page, int pageSize, out int totalRow);
         Post GetById(int id);
         IEnumerable<Post> GetAllByTagPaging(string tag,int page, int pageSize, out int totalRow);
         void SaveChanges();
@@ -45,9 +46,14 @@ namespace NLshop.Service
             return _postRepository.GetAll(new string[] { "postCategory" });
         }
 
+        public IEnumerable<Post> GetAllByCategoryPaging(int catagoryid,int page, int pageSize, out int totalRow)
+        {
+            return _postRepository.GetMultiPaging(x => x.Status && x.CategoryID == catagoryid, out totalRow,page ,pageSize, new string[] {"PostCategory" });
+        }
+
         public IEnumerable<Post> GetAllByTagPaging(string tag, int page, int pageSize, out int totalRow)
         {
-            return _postRepository.GetMultiPaging(x => x.Status ,out totalRow,page,pageSize);
+            return _postRepository.GetAllByTag(tag, page, pageSize, out totalRow);
         }
 
         public IEnumerable<Post> GetAllpaging(int page, int pageSize, out int totalRow)
@@ -57,7 +63,7 @@ namespace NLshop.Service
 
         public Post GetById(int id)
         {
-            return _postRepository.GetSingById(id);
+            return _postRepository.GetSingleById(id);
         }
 
         public void SaveChanges()

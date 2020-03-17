@@ -1,5 +1,4 @@
-﻿using NLshop.Data.Infrastructure;
-using NLShop.Data.Infrastructure;
+﻿using NLShop.Data.Infrastructure;
 using NLShop.Model.Models;
 
 namespace NLShop.Data.Repositories

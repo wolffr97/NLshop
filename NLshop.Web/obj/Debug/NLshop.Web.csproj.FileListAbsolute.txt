@@ -194,3 +194,167 @@ E:\project to Git\git\NLshop\NLshop.Web\obj\Debug\NLshop.Web.csprojAssemblyRefer
 E:\project to Git\git\NLshop\NLshop.Web\obj\Debug\NLshop.Web.csproj.CopyComplete
 E:\project to Git\git\NLshop\NLshop.Web\obj\Debug\NLshop.Web.dll
 E:\project to Git\git\NLshop\NLshop.Web\obj\Debug\NLshop.Web.pdb
+E:\project to Git\git\NLshop\NLshop.Web\bin\Autofac.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Autofac.Integration.Mvc.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Autofac.Integration.WebApi.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Owin.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\System.Threading.Tasks.Extensions.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Autofac.pdb
+E:\project to Git\git\NLshop\NLshop.Web\bin\Autofac.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Autofac.Integration.Mvc.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Autofac.Integration.WebApi.pdb
+E:\project to Git\git\NLshop\NLshop.Web\bin\Autofac.Integration.WebApi.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\System.Threading.Tasks.Extensions.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\AutoMapper.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\AutoMapper.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.Security.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.Security.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\project to Git\git\NLshop\NLshop.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\obj\Debug\NLshop.Web.csprojAssemblyReference.cache
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\obj\Debug\NLshop.Web.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\obj\Debug\NLshop.Web.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Web.dll.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Web.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Web.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\csc.exe
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\csc.exe.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\csc.rsp
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\csi.exe
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\csi.exe.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\csi.rsp
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.AppContext.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Console.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\vbc.exe
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\vbc.exe.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\vbc.rsp
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Antlr3.Runtime.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Autofac.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\AutoMapper.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\EntityFramework.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Newtonsoft.Json.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Common.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Data.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Model.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Service.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Owin.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Helpers.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Http.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Mvc.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Optimization.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Razor.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.WebPages.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\WebGrease.dll
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Common.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Data.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Data.dll.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Model.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Model.dll.config
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\NLshop.Service.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Autofac.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Autofac.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Autofac.Integration.WebApi.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\AutoMapper.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\EntityFramework.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Helpers.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Mvc.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Optimization.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Razor.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.WebPages.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Newtonsoft.Json.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Antlr3.Runtime.pdb
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Http.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lengh\Desktop\NLshop1\NLshop.Web\obj\Debug\NLshop.Web.csproj.CopyComplete
