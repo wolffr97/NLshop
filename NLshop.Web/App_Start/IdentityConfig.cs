@@ -12,6 +12,7 @@ using NLshop.Model;
 
 namespace NLShop.Web.App_Start
 {
+
     public class ApplicationUserStore : UserStore<ApplicationUser>
     {
         public ApplicationUserStore(NlShopDbContext context)

@@ -52,3 +52,23 @@ C:\Users\lengh\Desktop\NLshop1\NLshop.Service\bin\Debug\Microsoft.AspNet.Identit
 C:\Users\lengh\Desktop\NLshop1\NLshop.Service\bin\Debug\EntityFramework.xml
 C:\Users\lengh\Desktop\NLshop1\NLshop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\lengh\Desktop\NLshop1\NLshop.Service\obj\Debug\NLshop.Service.csproj.CopyComplete
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Service.dll
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Service.pdb
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Common.dll
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Data.dll
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Model.dll
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\EntityFramework.dll
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Common.pdb
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Data.pdb
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Data.dll.config
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Model.pdb
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\NLshop.Model.dll.config
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\EntityFramework.xml
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\project to Git\git\NLshop1\NLshop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\project to Git\git\NLshop1\NLshop.Service\obj\Debug\NLshop.Service.csprojAssemblyReference.cache
+E:\project to Git\git\NLshop1\NLshop.Service\obj\Debug\NLshop.Service.csproj.CopyComplete
+E:\project to Git\git\NLshop1\NLshop.Service\obj\Debug\NLshop.Service.dll
+E:\project to Git\git\NLshop1\NLshop.Service\obj\Debug\NLshop.Service.pdb
