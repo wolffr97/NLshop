@@ -14,5 +14,6 @@ namespace NLshop.Model
         public string DateTime { set; get; }
         public DateTime CreatedDate { get; set; }
 
+
     }
 }
