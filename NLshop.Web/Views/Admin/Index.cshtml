@@ -1,0 +1,30 @@
+﻿@inherits System.Web.Mvc.WebViewPage
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html ng-app="myModule">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+    <script src="~/Scripts/plugins/angular/angular.js"></script>
+    <script src="~/Scripts/spa/app.js"></script>
+
+</head>
+
+<body>
+    <div ng-controller="myController">
+        <h1>MEKONG-TECH COMPANY WEBSITE .......... COMMING SOON .............</h1>
+        <h3> Contact: cs@mekong-tech.com </h3>
+        <h3> Phone number: (+84)(0) 965-800-268</h3>
+        <nl-shop-directive></nl-shop-directive>
+        <input type="number" ng-model="num"/>   value of textbox :{{num}}
+        <button ng-click="checkNumber()">Click here</button>
+        <br />
+        {{message}}
+    </div>
+</body>
+</html>

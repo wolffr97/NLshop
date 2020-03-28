@@ -8,3 +8,8 @@ E:\project to Git\git\NLshop\NLshop.Common\bin\Debug\NLshop.Common.pdb
 E:\project to Git\git\NLshop\NLshop.Common\obj\Debug\NLshop.Common.csprojAssemblyReference.cache
 E:\project to Git\git\NLshop\NLshop.Common\obj\Debug\NLshop.Common.dll
 E:\project to Git\git\NLshop\NLshop.Common\obj\Debug\NLshop.Common.pdb
+E:\project to Git\git\NLshop1\NLshop.Common\bin\Debug\NLshop.Common.dll
+E:\project to Git\git\NLshop1\NLshop.Common\bin\Debug\NLshop.Common.pdb
+E:\project to Git\git\NLshop1\NLshop.Common\obj\Debug\NLshop.Common.csprojAssemblyReference.cache
+E:\project to Git\git\NLshop1\NLshop.Common\obj\Debug\NLshop.Common.dll
+E:\project to Git\git\NLshop1\NLshop.Common\obj\Debug\NLshop.Common.pdb
