@@ -4,9 +4,9 @@ using System.Linq;
 using NLShop.Data.Infrastructure;
 using NLShop.Model.Models;
 
-namespace TeduShop.Data.Repositories
+namespace NLShop.Data.Repositories
 {
-    public interface IProductCategoryRepository
+    public interface IProductCategoryRepository : IRepository<ProductCategory>
     {
         IEnumerable<ProductCategory> GetByAlias(string alias);
     }
