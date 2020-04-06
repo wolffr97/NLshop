@@ -215,6 +215,9 @@
     <Content Include="app\app.routes.js" />
     <Content Include="app\components\home\homeController.js" />
     <Content Include="app\components\home\homeView.html" />
+    <Content Include="app\components\orders\orders.module.js" />
+    <Content Include="app\components\orders\ordersController.js" />
+    <Content Include="app\components\orders\ordersView.html" />
     <Content Include="app\components\products\products.module.js" />
     <Content Include="app\components\products\productAddController.js" />
     <Content Include="app\components\products\productAddView.html" />
@@ -222,6 +225,9 @@
     <Content Include="app\components\products\productEditView.html" />
     <Content Include="app\components\products\productListController.js" />
     <Content Include="app\components\products\productListView.html" />
+    <Content Include="app\components\product_categories\ProductCategory.module.js" />
+    <Content Include="app\components\product_categories\ProductCategoryController.js" />
+    <Content Include="app\components\product_categories\ProductCategoryView.html" />
     <Content Include="app\shared\modules\nlshop.common.js" />
     <Content Include="Assets\admin\css\adminlte.css" />
     <Content Include="Assets\admin\css\adminlte.min.css" />
@@ -320,6 +326,7 @@
     <Content Include="Assets\admin\libs\angular\angular.js" />
     <Content Include="Assets\admin\libs\angular\angular.min.js" />
     <Content Include="Assets\admin\libs\angular\index.js" />
+    <Content Include="Assets\admin\libs\bootstrap\dist\css\font-awesome.min.css" />
     <Content Include="Assets\admin\libs\bootstrap\dist\css\bootstrap-theme.css" />
     <Content Include="Assets\admin\libs\bootstrap\dist\css\bootstrap-theme.min.css" />
     <Content Include="Assets\admin\libs\bootstrap\dist\css\bootstrap.css" />
@@ -496,14 +503,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="app\components\orders\" />
-    <Folder Include="app\components\product_categories\" />
     <Folder Include="app\components\roles\" />
     <Folder Include="app\components\users\" />
     <Folder Include="app\shared\footer\" />
     <Folder Include="app\shared\navigation\" />
     <Folder Include="app\shared\services\" />
     <Folder Include="App_Data\" />
+    <Folder Include="Assets\admin\bootrap\" />
     <Folder Include="Assets\Client\" />
   </ItemGroup>
   <ItemGroup>

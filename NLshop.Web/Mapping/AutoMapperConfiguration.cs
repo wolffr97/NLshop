@@ -15,6 +15,7 @@ namespace NLshop.Web.Mapping
             Mapper.CreateMap<Post, PostViewModel>();
             Mapper.CreateMap<PostCategory, PostCategoryViewModel>();
             Mapper.CreateMap<Tag, TagViewModel>();
+
         }
 
 
