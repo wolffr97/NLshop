@@ -6,13 +6,12 @@ using Microsoft.Owin.Security;
 using System;
 using System.Security.Claims;
 using System.Threading.Tasks;
-using NLShop.Data;
-using NLShop.Model.Models;
+
 using NLshop.Model;
+using NLShop.Data;
 
-namespace NLShop.Web.App_Start
+namespace NLshop.Web.App_Start
 {
-
     public class ApplicationUserStore : UserStore<ApplicationUser>
     {
         public ApplicationUserStore(NlShopDbContext context)

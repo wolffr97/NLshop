@@ -1,4 +1,4 @@
-using NLshop.Web.Mapping;
+using NLshop.Web.Mappings;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,8 +15,8 @@ namespace NLshop.Web
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
-            AutoMapperConfiguration.Configure();
             GlobalConfiguration.Configure(WebApiConfig.Register);
+            AutoMapperConfiguration.Configure();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);

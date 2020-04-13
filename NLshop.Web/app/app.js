@@ -1,7 +1,11 @@
 ﻿/// <reference path="/Assets/admin/libs/angular/angular.js" />
 
 (function () {
-    angular.module('Nlshop', ['Nlshop.products', 'Nlshop.common', 'Nlshop.ProductCategory','Nlshop.orders']).config(config);
+    angular.module('Nlshop',
+        ['Nlshop.products',
+         'Nlshop.product_categories',
+         'Nlshop.common'])
+        .config(config);
 
     config.$inject = ['$stateProvider', '$urlRouterProvider'];
 

@@ -94,10 +94,6 @@
       <Project>{2fdcf318-6b05-41c4-a2ec-5275f67e6249}</Project>
       <Name>NLshop.Service</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NLshop.Web\NLshop.Web.csproj">
-      <Project>{0efcfa04-2714-40d4-ba1e-6de594d240d0}</Project>
-      <Name>NLshop.Web</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ServiceTest\" />

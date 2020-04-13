@@ -4,9 +4,9 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Http;
-using NLShop.Web.App_Start;
+using NLshop.Web.App_Start;
 
-namespace NLShop.Web.Api
+namespace NLshop.Web.Api
 {
     [RoutePrefix("api/account")]
     public class AccountController : ApiController

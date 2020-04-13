@@ -1,14 +1,12 @@
-﻿using System;
-using System.Threading.Tasks;
-using Microsoft.AspNet.Identity;
+﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
-using NLshop.Data;
-using NLshop.Model;
-using NLShop.Data;
-using NLShop.Web.App_Start;
 using Owin;
+using System;
+
+using NLShop.Data;
+using NLshop.Model;
 
 [assembly: OwinStartup(typeof(NLshop.Web.App_Start.Startup))]
 
@@ -69,6 +67,5 @@ namespace NLshop.Web.App_Start
             //    ClientSecret = ""
             //});
         }
-
     }
 }

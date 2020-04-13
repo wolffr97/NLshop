@@ -8,9 +8,8 @@ using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using System.Web.UI.MobileControls;
-using System.Windows.Documents;
-using NLshop.Web.infratructure.Extentions;
+
+using NLshop.Web.Infrastructure.Extensions;
 
 namespace NLshop.Web.API
 {
@@ -29,24 +28,24 @@ namespace NLshop.Web.API
         public HttpResponseMessage Post(HttpRequestMessage request, PostCategoryViewModel postCategoryVm)
         {
             return CreateHttpResponse(request, () =>
-             {
-                 HttpResponseMessage Response = null;
-                 if (ModelState.IsValid)
-                 {
-                     request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
-                 }
-                 else
-                 {
-                     PostCategory newPostCategory = new PostCategory();
-                     newPostCategory.UpdatePostCategory(postCategoryVm);
-                     _postcategoryService.Add(newPostCategory);
-                     
-                     _postcategoryService.Save();
+            {
+                HttpResponseMessage Response = null;
+                if (ModelState.IsValid)
+                {
+                    request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
+                }
+                else
+                {
+                    PostCategory newPostCategory = new PostCategory();
+                    newPostCategory.UpdatePostCategory(postCategoryVm);
+                    _postcategoryService.Add(newPostCategory);
 
-                     Response = request.CreateResponse(HttpStatusCode.Created, newPostCategory);
-                 }
-                 return Response;
-             });
+                    _postcategoryService.Save();
+
+                    Response = request.CreateResponse(HttpStatusCode.Created, newPostCategory);
+                }
+                return Response;
+            });
         }
         [Route("update")]
         public HttpResponseMessage Put(HttpRequestMessage request, PostCategoryViewModel postCategoryVm)
