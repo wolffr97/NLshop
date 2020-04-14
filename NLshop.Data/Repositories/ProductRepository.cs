@@ -1,10 +1,11 @@
-﻿using NLshop.Data.Infrastructure;
+﻿
+
 using NLShop.Data.Infrastructure;
 using NLShop.Model.Models;
 
-namespace NLShop.Data.Repositories
+namespace NLshop.Data.Repositories
 {
-    public interface IProductRepository
+    public interface IProductRepository : IRepository<Product>
     {
     }
 
