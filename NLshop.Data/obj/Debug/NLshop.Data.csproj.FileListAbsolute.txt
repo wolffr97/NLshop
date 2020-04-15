@@ -78,3 +78,4 @@ E:\project to Git\git\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.csproj.GenerateR
 E:\project to Git\git\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.csproj.CopyComplete
 E:\project to Git\git\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.dll
 E:\project to Git\git\NLshop1\NLshop.Data\obj\Debug\NLshop.Data.pdb
+E:\project to Git\git\NLshop1\NLshop.Data\obj\Debug\NLShop.Data.Migrations.AddTagField.resources

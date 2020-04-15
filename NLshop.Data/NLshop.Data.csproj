@@ -68,6 +68,10 @@
     <Compile Include="Migrations\202003171407488_InitialDB.designer.cs">
       <DependentUpon>202003171407488_InitialDB.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202004140912599_AddTagField.cs" />
+    <Compile Include="Migrations\202004140912599_AddTagField.designer.cs">
+      <DependentUpon>202004140912599_AddTagField.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="NlShopDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -107,6 +111,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202003171407488_InitialDB.resx">
       <DependentUpon>202003171407488_InitialDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004140912599_AddTagField.resx">
+      <DependentUpon>202004140912599_AddTagField.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

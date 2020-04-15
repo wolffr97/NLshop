@@ -1,8 +1,10 @@
-﻿using System.Collections.Generic;
+﻿using NLshop.Common;
 using NLshop.Data.Infrastructure;
 using NLshop.Data.Repositories;
 using NLShop.Data.Repositories;
 using NLShop.Model.Models;
+using System.Collections.Generic;
+
 
 namespace NLshop.Service
 {
@@ -26,17 +28,46 @@ namespace NLshop.Service
     public class ProductService : IProductService
     {
         private IProductRepository _productRepository;
+        private ITagRepository _tagRepository;
+        private IProductTagRepository _productTagRepository;
+
         private IUnitOfWork _unitOfWork;
 
-        public ProductService(IProductRepository productRepository, IUnitOfWork unitOfWork)
+        public ProductService(IProductRepository productRepository, IProductTagRepository productTagRepository,
+            ITagRepository _tagRepository, IUnitOfWork unitOfWork)
         {
             this._productRepository = productRepository;
+            this._productTagRepository = productTagRepository;
+            this._tagRepository = _tagRepository;
             this._unitOfWork = unitOfWork;
         }
 
         public Product Add(Product Product)
         {
-            return _productRepository.Add(Product);
+            var product = _productRepository.Add(Product);
+            _unitOfWork.Commit();
+            if (!string.IsNullOrEmpty(Product.Tags))
+            {
+                string[] tags = Product.Tags.Split(',');
+                for (var i = 0; i < tags.Length; i++)
+                {
+                    var tagId = StringHelper.ToUnsignString(tags[i]);
+                    if (_tagRepository.Count(x => x.ID == tagId) == 0)
+                    {
+                        Tag tag = new Tag();
+                        tag.ID = tagId;
+                        tag.Name = tags[i];
+                        tag.Type = CommonConstants.ProductTag;
+                        _tagRepository.Add(tag);
+                    }
+                    
+                    ProductTag productTag = new ProductTag();
+                    productTag.ProductID = Product.ID;
+                    productTag.TagID = tagId;
+                    _productTagRepository.Add(productTag);
+                }
+            }
+            return product;
         }
 
         public Product Delete(int id)
@@ -70,6 +101,28 @@ namespace NLshop.Service
         public void Update(Product Product)
         {
             _productRepository.Update(Product);
+            if (!string.IsNullOrEmpty(Product.Tags))
+            {
+                string[] tags = Product.Tags.Split(',');
+                for (var i = 0; i < tags.Length; i++)
+                {
+                    var tagId = StringHelper.ToUnsignString(tags[i]);
+                    if (_tagRepository.Count(x => x.ID == tagId) == 0)
+                    {
+                        Tag tag = new Tag();
+                        tag.ID = tagId;
+                        tag.Name = tags[i];
+                        tag.Type = CommonConstants.ProductTag;
+                        _tagRepository.Add(tag);
+                    }
+                    _productTagRepository.DeleteMulti(x => x.ProductID == Product.ID);
+                    ProductTag productTag = new ProductTag();
+                    productTag.ProductID = Product.ID;
+                    productTag.TagID = tagId;
+                    _productTagRepository.Add(productTag);
+                }
+
+            }
         }
     }
 }
