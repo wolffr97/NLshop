@@ -95,5 +95,13 @@ namespace NLshop.Web.Infrastructure.Extensions
             product.Status = productVm.Status;
             product.Tags = productVm.Tags;
         }
+
+
+        public static void UpdatePostTag(this PostTag postTag, PostTagViewModel postTagVm)
+        {
+            postTag.TagID = postTagVm.TagID;
+            postTag.PostID = postTagVm.PostID;
+      
+        }
     }
 }
