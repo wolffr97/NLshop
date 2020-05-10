@@ -17,6 +17,7 @@ using System.Web.Script.Serialization;
 namespace NLshop.Web.Api
 {
     [RoutePrefix("api/productcategory")]
+    [Authorize]
     public class ProductCategoryController : ApiControllerBase
     {
         #region Initialize
@@ -32,6 +33,7 @@ namespace NLshop.Web.Api
 
         [Route("getallparents")]
         [HttpGet]
+
         public HttpResponseMessage GetAll(HttpRequestMessage request)
         {
             return CreateHttpResponse(request, () =>
@@ -46,6 +48,7 @@ namespace NLshop.Web.Api
         }
         [Route("getbyid/{id:int}")]
         [HttpGet]
+
         public HttpResponseMessage GetById(HttpRequestMessage request, int id)
         {
             return CreateHttpResponse(request, () =>
@@ -62,6 +65,7 @@ namespace NLshop.Web.Api
 
         [Route("getall")]
         [HttpGet]
+
         public HttpResponseMessage GetAll(HttpRequestMessage request, string keyword, int page, int pageSize = 20)
         {
             return CreateHttpResponse(request, () =>
@@ -90,6 +94,7 @@ namespace NLshop.Web.Api
         [Route("create")]
         [HttpPost]
         [AllowAnonymous]
+
         public HttpResponseMessage Create(HttpRequestMessage request, ProductCategoryViewModel productCategoryVm)
         {
             return CreateHttpResponse(request, () =>
@@ -118,6 +123,7 @@ namespace NLshop.Web.Api
         [Route("update")]
         [HttpPut]
         [AllowAnonymous]
+
         public HttpResponseMessage Update(HttpRequestMessage request, ProductCategoryViewModel productCategoryVm)
         {
             return CreateHttpResponse(request, () =>
@@ -148,6 +154,7 @@ namespace NLshop.Web.Api
         [Route("delete")]
         [HttpDelete]
         [AllowAnonymous]
+
         public HttpResponseMessage Delete(HttpRequestMessage request, int id)
         {
             return CreateHttpResponse(request, () =>
@@ -172,6 +179,7 @@ namespace NLshop.Web.Api
         [Route("deletemulti")]
         [HttpDelete]
         [AllowAnonymous]
+
         public HttpResponseMessage DeleteMulti(HttpRequestMessage request, string checkedProductCategories)
         {
             return CreateHttpResponse(request, () =>

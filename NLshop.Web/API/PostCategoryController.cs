@@ -14,10 +14,11 @@ using NLshop.Web.Infrastructure.Extensions;
 namespace NLshop.Web.API
 {
     [RoutePrefix("Api/postcategory")]
+    [Authorize]
     public class PostCategoryController : ApiControllerBase
     {
         IPostCategoryService _postcategoryService;
-        private IConfigurationProvider config;
+    //    private IConfigurationProvider config;
 
         public PostCategoryController(IErrorService errorService, IPostCategoryService postCategoryService) : base(errorService)
         {
@@ -48,6 +49,7 @@ namespace NLshop.Web.API
             });
         }
         [Route("update")]
+
         public HttpResponseMessage Put(HttpRequestMessage request, PostCategoryViewModel postCategoryVm)
         {
             return CreateHttpResponse(request, () =>
@@ -70,6 +72,7 @@ namespace NLshop.Web.API
                 return Response;
             });
         }
+
         public HttpResponseMessage Delete(HttpRequestMessage request, int id)
         {
             return CreateHttpResponse(request, () =>
@@ -91,6 +94,7 @@ namespace NLshop.Web.API
             });
         }
         [Route("getall")]
+
         public HttpResponseMessage Get(HttpRequestMessage request)
         {
             return CreateHttpResponse(request, () =>

@@ -9,6 +9,7 @@ using NLshop.Web.App_Start;
 namespace NLshop.Web.Api
 {
     [RoutePrefix("api/account")]
+    [Authorize]
     public class AccountController : ApiController
     {
         private ApplicationSignInManager _signInManager;
