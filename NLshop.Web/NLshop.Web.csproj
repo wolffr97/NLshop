@@ -216,12 +216,14 @@
     <Compile Include="Infrastructure\Extensions\EntityExtensions.cs" />
     <Compile Include="Mappings\AutoMapperConfiguration.cs" />
     <Compile Include="Models\FooterViewModel.cs" />
+    <Compile Include="Models\HomeViewModel.cs" />
     <Compile Include="Models\PostCategoryViewModel.cs" />
     <Compile Include="Models\PostTagViewModel.cs" />
     <Compile Include="Models\PostViewModel.cs" />
     <Compile Include="Models\ProductCategoryViewModel.cs" />
     <Compile Include="Models\ProductTagViewModel.cs" />
     <Compile Include="Models\ProductViewModel.cs" />
+    <Compile Include="Models\SlideViewModel.cs" />
     <Compile Include="Models\TagViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -4053,6 +4055,8 @@
     <Content Include="Assets\client\images\bo.jpg" />
     <Content Include="Assets\client\images\bott.jpg" />
     <Content Include="Assets\client\images\bottle.jpg" />
+    <Content Include="Assets\client\images\cc.jpg" />
+    <Content Include="Assets\client\images\cc2.jpg" />
     <Content Include="Assets\client\images\ch.jpg" />
     <Content Include="Assets\client\images\facebook.png" />
     <Content Include="Assets\client\images\gpluse.png" />
@@ -4223,7 +4227,10 @@
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Libs\CKFinder.dll" />
-    <Content Include="UploadedFiles\images\LOGOTEDU.jpg" />
+    <Content Include="UploadedFiles\files\samsung.jpg" />
+    <Content Include="UploadedFiles\files\thuan.PNG" />
+    <Content Include="UploadedFiles\files\wave.jpg" />
+    <Content Include="UploadedFiles\images\thuan.png" />
     <Content Include="UploadedFiles\_thumbs\Images\LOGOTEDU.jpg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">

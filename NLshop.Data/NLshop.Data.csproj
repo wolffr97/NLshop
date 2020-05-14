@@ -72,6 +72,10 @@
     <Compile Include="Migrations\202004140912599_AddTagField.designer.cs">
       <DependentUpon>202004140912599_AddTagField.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202005140617496_addcontentToSlide.cs" />
+    <Compile Include="Migrations\202005140617496_addcontentToSlide.designer.cs">
+      <DependentUpon>202005140617496_addcontentToSlide.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="NlShopDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -114,6 +118,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004140912599_AddTagField.resx">
       <DependentUpon>202004140912599_AddTagField.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005140617496_addcontentToSlide.resx">
+      <DependentUpon>202005140617496_addcontentToSlide.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
